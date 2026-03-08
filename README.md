@@ -47,8 +47,8 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-* Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+* LinkedIn: https://linkedin.com/in/lohith-kumar-tangeti-485730371
+* Email: tangetilohithkumar@gmail.com(mailto:your-email@gmail.com)
 
 ---
 
