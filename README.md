@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Lohith Kumar
 
 💻 Full Stack Developer
-⚡ Tech Stack: Vue.js | Spring Boot | Oracle DB
+⚡ Tech Stack: React.js | Spring Boot | Oracle DB
 🚀 Passionate about building scalable web applications and secure APIs
 
 ---
